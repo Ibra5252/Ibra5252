@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ibra5252
+- 👋 Hi, I’m @Ibrahim Ghansah
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning networking
 - 💞️ I’m looking to collaborate on coding
